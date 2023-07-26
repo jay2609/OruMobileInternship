@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect style="stroke: rgb(0, 0, 0);" x="146.043" y="65.483" width="52.764" height="212.312" rx="20" ry="20"/>
+  <rect style="stroke: rgb(0, 0, 0); transform-box: fill-box; transform-origin: 50% 50%;" x="82.646" y="60.723" width="45.226" height="154.523" rx="20" ry="20" transform="matrix(0, 1, -1, 0, 67.794438, 173.102254)"/>
+  <rect style="stroke: rgb(0, 0, 0);" x="145.043" y="290.554" width="52.764" height="144.472" rx="20" ry="20"/>
+  <rect style="stroke: rgb(0, 0, 0); transform-box: fill-box; transform-origin: 50% 50%;" x="-311.872" y="-438.795" width="52.764" height="212.312" rx="20" ry="20" transform="matrix(-1, 0, 0, -1, 570.98003, 665.278015)"/>
+  <rect style="stroke: rgb(0, 0, 0); transform-origin: -59.458px -240.205px;" x="-82.071" y="-317.466" width="45.226" height="154.523" rx="20" ry="20" transform="matrix(0, -1, 1, 0, 344.319554, 433.396605)"/>
+  <rect style="stroke: rgb(0, 0, 0); transform-box: fill-box; transform-origin: 50% 50%;" x="-312.872" y="-213.724" width="52.764" height="144.472" rx="20" ry="20" transform="matrix(-1, 0, 0, -1, 572.98003, 282.976006)"/>
+</svg>

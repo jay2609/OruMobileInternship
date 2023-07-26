@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:guide x="198.80654158645504" y="209.86885897455852" angle="0"/>
+  </defs>
+  <rect style="stroke: rgb(0, 0, 0);" x="131.866" y="137.548" width="148.527" height="48.289" rx="20" ry="20"/>
+  <rect style="stroke: rgb(0, 0, 0);" x="131.866" y="222.688" width="241.483" height="48.289" rx="20" ry="20"/>
+  <rect style="stroke: rgb(0, 0, 0);" x="131.866" y="307.827" width="203.088" height="48.289" rx="20" ry="20"/>
+</svg>

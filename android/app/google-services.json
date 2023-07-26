@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "572400902663",
+    "project_id": "oruphone-91642",
+    "storage_bucket": "oruphone-91642.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572400902663:android:147751577c16dd95ab00a2",
+        "android_client_info": {
+          "package_name": "com.example.mobile_intern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572400902663-mijpj458rflqqve9rm3907horhhiu19c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqAe4ZrGFrTOVUlMIWeuxZsGtYrHF7fWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572400902663-mijpj458rflqqve9rm3907horhhiu19c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572400902663:android:e33cfc8d0413ac76ab00a2",
+        "android_client_info": {
+          "package_name": "com.example.oru_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572400902663-mijpj458rflqqve9rm3907horhhiu19c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqAe4ZrGFrTOVUlMIWeuxZsGtYrHF7fWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572400902663-mijpj458rflqqve9rm3907horhhiu19c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
